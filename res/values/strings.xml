@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">oldcar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">Test!</string>
+    <string name="search">検索</string>
+    <string name="list">一覧</string>
+    <string name="old_search">中古車検索</string>
+    <string name="car_name">車名</string>
+
+</resources>
